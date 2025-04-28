@@ -1,0 +1,14 @@
+/* DEVELOPER: Kelly Nzale, IS117-xxx, Spring 2025 */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1, h2, h5 {
+  color: #343a40;
+}
+
+.card {
+  margin-bottom: 30px;
+}
